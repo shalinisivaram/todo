@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/todos/61615cc2d217641253068569
+Content-Type: application/json
+
+{
+    "title":"1st task",
+    "description":"Its important",
+    "name":"shalini",
+    "important":true
+}

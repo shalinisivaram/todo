@@ -1,0 +1,16 @@
+tr{
+  padding: 20px;
+}
+tr:nth-child(even){
+  background-color:#E7E8E8
+}
+
+table{
+  padding: 50px;
+}
+th,
+td {
+  padding: 5px;
+  border: 1px solid black;
+}
+

@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/todos
+Content-Type: application/json
+
+{
+    "title":"1st task",
+    "description":"Its important",
+    "name":"shalini",
+    "important":false
+}
